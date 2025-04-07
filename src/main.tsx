@@ -11,7 +11,7 @@ const router = createBrowserRouter([
         element: <App />,
     },
     {
-        path: "/access-denied",
+        path: "/accessdenied",
         element: <AccessDenied />,
     },
 ])
